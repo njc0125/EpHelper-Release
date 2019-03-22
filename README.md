@@ -26,25 +26,3 @@
 ### 下载链接 
 
 [Download Link](https://github.com/nincenet/EpHelper-Release/releases/download/beta/EpHelper1.0.zip)
-
-### 购买示例：
-
-![step 1](https://github.com/nincenet/EpHelper-Release/blob/master/1.PNG)
-![step 2](https://github.com/nincenet/EpHelper-Release/blob/master/2.PNG)
-![step 3](https://github.com/nincenet/EpHelper-Release/blob/master/3.PNG)
-![step 4](https://github.com/nincenet/EpHelper-Release/blob/master/4.PNG)
-![step 5](https://github.com/nincenet/EpHelper-Release/blob/master/5.PNG)
-![step 6](https://github.com/nincenet/EpHelper-Release/blob/master/6.PNG)
-![step 7](https://github.com/nincenet/EpHelper-Release/blob/master/7.PNG)
-![step 8](https://github.com/nincenet/EpHelper-Release/blob/master/8.PNG)
-![step 9](https://github.com/nincenet/EpHelper-Release/blob/master/9.PNG)
-![step 10](https://github.com/nincenet/EpHelper-Release/blob/master/10.PNG)
-![step 11](https://github.com/nincenet/EpHelper-Release/blob/master/11.PNG)
-![step 12](https://github.com/nincenet/EpHelper-Release/blob/master/12.PNG)
-![step 13](https://github.com/nincenet/EpHelper-Release/blob/master/13.PNG)
-![step 14](https://github.com/nincenet/EpHelper-Release/blob/master/14.PNG)
-![step 15](https://github.com/nincenet/EpHelper-Release/blob/master/15.PNG)
-![step 16](https://github.com/nincenet/EpHelper-Release/blob/master/16.PNG)
-![step 17](https://github.com/nincenet/EpHelper-Release/blob/master/17.PNG)
-![step 18](https://github.com/nincenet/EpHelper-Release/blob/master/18.PNG)
-![step 19](https://github.com/nincenet/EpHelper-Release/blob/master/19.PNG)
