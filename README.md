@@ -1,5 +1,4 @@
-# EpHelper-Release
-Ep助手
+# Ep助手
 ![step 1](https://github.com/nincenet/EpHelper-Release/blob/master/1.PNG)
 ![step 2](https://github.com/nincenet/EpHelper-Release/blob/master/2.PNG)
 ![step 3](https://github.com/nincenet/EpHelper-Release/blob/master/3.PNG)
