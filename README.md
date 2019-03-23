@@ -25,4 +25,4 @@
 
 ### 下载链接 
 
-[Download Link](http://ep-helper.oss-cn-hongkong.aliyuncs.com/EpHelper1.0.zip)
+[版本1.0下载链接](http://ep-helper.oss-cn-hongkong.aliyuncs.com/EpHelper1.0.zip)
