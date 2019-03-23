@@ -25,4 +25,4 @@
 
 ### 下载链接 
 
-[Download Link](https://github.com/nincenet/EpHelper-Release/releases/download/beta/EpHelper1.0.zip)
+[Download Link](http://ep-helper.oss-cn-hongkong.aliyuncs.com/EpHelper1.0.zip)
